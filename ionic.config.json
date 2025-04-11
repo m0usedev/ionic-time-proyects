@@ -1,0 +1,7 @@
+{
+  "name": "time-proyects",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
